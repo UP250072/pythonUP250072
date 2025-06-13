@@ -1,3 +1,5 @@
+#Day 1: 30 Days of python programming 
+
 print("Exercise 2.-")
 print("La suma de 3+4 es = ", 3+4)
 print("La resta de 3-4 es = ", 3-4)
